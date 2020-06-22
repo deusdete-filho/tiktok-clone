@@ -6,7 +6,7 @@
 
 ## :bookmark: Sobre
 
-Recriando a interface da tela principal do aplicativo TikTok. 
+Recriando a interface da tela principal do aplicativo TikTok. O projeto foi desenvolvido utilizando React Native, com as bibliotecas Styled Components, e Expo-Av.
 
 ## :rocket: Tecnologias Utilizadas
 
