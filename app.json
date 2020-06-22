@@ -1,0 +1,22 @@
+{
+	"expo": {
+		"name": "Tiktok",
+		"slug": "Tiktok",
+		"platforms": ["ios", "android", "web"],
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./assets/icon.png",
+		"splash": {
+			"image": "./assets/splash-tiktok.png",
+			"resizeMode": "cover",
+			"backgroundColor": "#170c1a"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": true
+		}
+	}
+}
