@@ -8,12 +8,6 @@
 
 Recriando a interface de videos do TikTok.
 
-## :heavy_check_mark: Resultado
-
-<h4 align="center">
-    <img alt="Home" title="#home" width="450px" src="github/gif.gif">
-</h4>
-
 ## :rocket: Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
@@ -22,6 +16,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   - [React Native Communications](react-native-communications)
 - [Styled Components](https://styled-components.com/)
 - [Expo](https://expo.io/)
+
+## :heavy_check_mark: Resultado
+
+<h4 align="center">
+    <img alt="Home" title="#home" width="450px" src="github/gif.gif">
+</h4>
 
 <h4 align="center">
     Feito com 💜 by Deusdete Filho</a>
