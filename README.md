@@ -6,7 +6,7 @@
 
 ## :bookmark: Sobre
 
-Recriando a interface de videos do TikTok.
+Recriando a interface da tela principal do aplicativo TikTok. 
 
 ## :rocket: Tecnologias Utilizadas
 
@@ -16,6 +16,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   - [React Native Communications](react-native-communications)
 - [Styled Components](https://styled-components.com/)
 - [Expo](https://expo.io/)
+  - [expo-av](https://docs.expo.io/versions/latest/sdk/av/)
 
 ## :heavy_check_mark: Resultado
 
